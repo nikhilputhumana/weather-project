@@ -1,0 +1,36 @@
+body {
+    overflow-x: hidden
+}
+
+.sidebar {
+    background: #4723d9;
+    width: 70px;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    
+}
+
+.icon {
+    margin: 20px;  
+    color: white; 
+}
+
+.iconset {
+    margin-top: 35px;
+}
+
+.content {
+    margin-left: 70px;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+
+.card-img-top {
+    height: 100px;
+}
+
+.card {
+    width: 18rem;
+    margin: 10px;
+}
